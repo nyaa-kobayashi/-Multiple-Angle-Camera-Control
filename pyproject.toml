@@ -1,5 +1,5 @@
 [project]
-name = "-multiple-angle-camera-control"
+name = "multiple-angle-camera-control"
 description = "Advanced camera control prompt generator for ComfyUI, optimized for dx8152's MultiAngle LoRA. Simplifies multi-directional movements, rotations, and special views with bilingual output."
 version = "1.0.0"
 license = {file = "LICENSE"} 
@@ -27,7 +27,7 @@ Documentation = "https://github.com/mercu-lore/-Multiple-Angle-Camera-Control/wi
 
 [tool.comfy]
 PublisherId = "mercu-lore"
-DisplayName = "-Multiple-Angle-Camera-Control"
+DisplayName = "Multiple-Angle-Camera-Control"
 Icon = ""
 includes = []
 # "requires-comfyui" = ">=1.0.0"
