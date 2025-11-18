@@ -1,7 +1,7 @@
 [project]
 name = "multiple-angle-camera-control"
-description = "Advanced camera control prompt generator for ComfyUI, optimized for dx8152's MultiAngle LoRA. Simplifies multi-directional movements, rotations, and special views with bilingual output."
-version = "1.0.0"
+description = "Advanced camera and light control prompt generator for ComfyUI, optimized for dx8152's MultiAngle LoRA. Simplifies multi-directional movements, rotations, and special views with bilingual output."
+version = "1.0.1"
 license = {file = "LICENSE"} 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
